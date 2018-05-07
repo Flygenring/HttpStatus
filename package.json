@@ -1,0 +1,21 @@
+{
+	"name": "HttpStatus.js",
+	"version": "1.0.2",
+	"license": "MIT",
+	"private": false,
+	"description": "A simple utility for working with HTTP statuses in JavaScript",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Flygenring/HttpStatus.js.git"
+	},
+	"bugs": "https://github.com/Flygenring/HttpStatus.js/issues",
+	"author": {
+		"name": "Jacob Flygenring"
+	},
+	"directories": {
+		"bin": "./dist",
+		"lib": "./src"
+	},
+	"main": "src/index.js",
+	"module": "src/index.js"
+}
